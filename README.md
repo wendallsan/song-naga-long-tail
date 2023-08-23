@@ -8,6 +8,6 @@
 
 Concept Sketch
 
-![Untitled Diagram drawio (1)](https://github.com/wendallsan/song-naga-long-tail/assets/1865305/5de6c896-693c-4903-9b03-e6ae3d878094)
+![Untitled Diagram drawio (2)](https://github.com/wendallsan/song-naga-long-tail/assets/1865305/612ec032-94d9-4b60-a431-3bf5eb331d39)
 
 Block Diagram
