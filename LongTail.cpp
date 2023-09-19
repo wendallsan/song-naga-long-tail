@@ -56,7 +56,6 @@ enum effectModes{
 };
 
 DaisySeed hw;
-// TODO: ADD EFFECTS: DELAYLINE, CHORUS, FLANGER, PHASER, REVERB
 DelayLine<float, MAX_DELAY> delay; // type of buffer, length of buffer
 ReverbSc reverb;
 Phaser phaser;
